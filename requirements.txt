@@ -1,0 +1,17 @@
+click==6.6
+Django==1.10
+Flask==0.11.1
+gunicorn==19.6.0
+image==1.5.4
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+Pillow==3.3.0
+redis==2.10.5
+requests==2.11.0
+rq==0.6.0
+six==1.10.0
+slackclient==1.0.1
+slacker==0.9.24
+websocket-client==0.37.0
+Werkzeug==0.11.10
